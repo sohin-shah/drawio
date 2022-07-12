@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T14:19:59.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="o9P0t7OmKqbrf6Emgkor" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T14:20:18.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qsgKQ4oPFHLQi842D1tc" version="17.4.6" type="github">
   <diagram id="X2fJKKt7aarqbtWtg0Cp" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         </mxCell>
         <mxCell id="hKdDYJP4mx2-etjvpNGC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="hKdDYJP4mx2-etjvpNGC-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="120" as="sourcePoint" />
+            <mxPoint x="470" y="120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hKdDYJP4mx2-etjvpNGC-7" value="currency exchange service" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
