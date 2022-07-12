@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T18:03:48.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FJM5MuV2JAgLOD0UqQpJ" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T11:59:41.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="d00VIRVJjgE6V0lFiMCm" version="17.4.6" type="github">
   <diagram id="X2fJKKt7aarqbtWtg0Cp" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,28 +8,61 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hKdDYJP4mx2-etjvpNGC-1" value="limits-service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hKdDYJP4mx2-etjvpNGC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hKdDYJP4mx2-etjvpNGC-2" target="hKdDYJP4mx2-etjvpNGC-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hKdDYJP4mx2-etjvpNGC-2" value="spring cloud config server" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hKdDYJP4mx2-etjvpNGC-4" value="Git repo" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hKdDYJP4mx2-etjvpNGC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hKdDYJP4mx2-etjvpNGC-6" target="hKdDYJP4mx2-etjvpNGC-7">
+        <mxCell id="hKdDYJP4mx2-etjvpNGC-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hKdDYJP4mx2-etjvpNGC-6" target="hKdDYJP4mx2-etjvpNGC-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hKdDYJP4mx2-etjvpNGC-6" value="currency calc service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hKdDYJP4mx2-etjvpNGC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hKdDYJP4mx2-etjvpNGC-7" target="hKdDYJP4mx2-etjvpNGC-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="hKdDYJP4mx2-etjvpNGC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="hKdDYJP4mx2-etjvpNGC-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="120" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hKdDYJP4mx2-etjvpNGC-7" value="currency exchange service" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="305" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hKdDYJP4mx2-etjvpNGC-10" value="currency exchange service" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hKdDYJP4mx2-etjvpNGC-11" value="currency exchange service" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hKdDYJP4mx2-etjvpNGC-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hKdDYJP4mx2-etjvpNGC-12" target="hKdDYJP4mx2-etjvpNGC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hKdDYJP4mx2-etjvpNGC-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hKdDYJP4mx2-etjvpNGC-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hKdDYJP4mx2-etjvpNGC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hKdDYJP4mx2-etjvpNGC-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hKdDYJP4mx2-etjvpNGC-12" value="Ribbon" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hKdDYJP4mx2-etjvpNGC-14" value="Naming server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
